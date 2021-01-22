@@ -1,5 +1,5 @@
-# virtual-vacations
-Taking virtual vacations to infinity and beyond.
+# Virtual Vacations
+Documenting virtual vacations to infinity and beyond.
 
 |Date|Location|Resources|
 |----|--------|---------|
